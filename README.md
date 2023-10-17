@@ -66,6 +66,4 @@ Feel free to contribute to this project. Open an issue first for major changes.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
 
-You can replace `screenshot-url-here` with the actual screenshot URL of your project. Additionally, adjust any links or usernames accordingly.
