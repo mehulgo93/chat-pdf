@@ -31,7 +31,7 @@ An intuitive platform where millions of students, researchers, and professionals
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/chat-pdf
+git clone https://github.com/your-username/chat-pdf.git
 ```
 
 2. Install the dependencies:
