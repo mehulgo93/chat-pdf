@@ -17,10 +17,6 @@ An intuitive platform where millions of students, researchers, and professionals
 
 ---
 
-Certainly! Here's a sample `README.md` file for your project:
-
----
-
 ## Getting Started 🚀
 
 ### Prerequisites
