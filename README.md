@@ -22,6 +22,7 @@ An intuitive platform where millions of students, researchers, and professionals
 ### Prerequisites
 
 - Node.js
+- OPENAI API key
 - Prisma CLI
 - Pinecone API key
 - Stripe API key
