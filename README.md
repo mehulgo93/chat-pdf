@@ -3,7 +3,7 @@
 
 An intuitive platform where millions of students, researchers, and professionals can instantly answer questions and understand research with the power of AI.
 
-![Chat with any PDF Screenshot](<img width="1728" alt="Screenshot 2023-10-17 at 3 33 30 PM" src="https://github.com/mehulgo93/chat-pdf/assets/111099204/59389fdc-d2b5-470a-b8f9-592b830035bc">
+![Chat with any PDF Screenshot](<img width="1728" alt="Chat With Any PDF" src="https://user-images.githubusercontent.com/111099204/275982612-4f7e6d2d-6e1b-4378-b83e-e41cad75a7f3.png">
 )
 
 ## Features 🌟
