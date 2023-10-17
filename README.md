@@ -1,6 +1,3 @@
-Of course! Here's the updated section of the `README.md` file with the addition of the OpenAI embeddings model detail:
-
----
 
 # Chat with any PDF 🌐
 
